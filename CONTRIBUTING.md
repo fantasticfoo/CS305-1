@@ -1,4 +1,3 @@
-
 # Rules
 
 1. Don't be a jerk
@@ -6,4 +5,5 @@
 3. Have fun
 
 # Contributors
-Conrad Murphy
+* Conrad Murphy (@Conrad-Murphy)
+* Ethan Green (@eeddgg)
