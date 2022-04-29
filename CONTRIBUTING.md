@@ -7,3 +7,4 @@
 # Contributors
 * Conrad Murphy (@Conrad-Murphy)
 * Ethan Green (@eeddgg)
+* Faith Ononye (@fantasticfoo)
